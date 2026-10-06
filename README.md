@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/0176-second-highest-salary) |
 | [1517-find-users-with-valid-e-mails](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1667-fix-names-in-a-table) |
