@@ -15,4 +15,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1873-calculate-special-bonus) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
