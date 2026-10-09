@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1667-fix-names-in-a-table) |
+| [1693-daily-leads-and-partners](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1873-calculate-special-bonus) |
