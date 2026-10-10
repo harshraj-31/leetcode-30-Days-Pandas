@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/0596-classes-with-at-least-5-students) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1484-group-sold-products-by-the-date](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/harshraj-31/leetcode-30-Days-Pandas/tree/master/1527-patients-with-a-condition) |
